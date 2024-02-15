@@ -1,0 +1,7 @@
+- 3 compartments
+	- [[central compartment V1]]
+	- [[peripheral compartment V2]]
+	- [[peripheral compartment V3]]
+- [[k10]] is the metabolic rate constant
+- [[ke0]] a rate constant that describes the transfer of the drug from V1 to the [[effect site]]
+-

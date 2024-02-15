@@ -1,0 +1,3 @@
+- reflects the speed of equilibration between the plasma and the brain
+- a higher ke0 means a more rapid equilibration
+-

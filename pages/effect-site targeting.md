@@ -1,0 +1,10 @@
+- ((65ce37fc-f596-408f-9c96-9b30f53423b8))
+- # difference in plasma vs effect-site targeting
+	- Illustration of plasma (a) and effect-site (b) TCI targeting modes when the Marsh model is used with 1% propofol and a ke0 of 1.2 min-1.
+	- In both figures, the target concentration is set to 3 μg.ml-1 at time 0, increased to 6 μg.ml-1 at 5 min, and then decreased to 3 μg.ml-1 at 10 min.
+	- Plasma concentrations are represented by the solid lines, effect-site (brain) concentrations by dotted lines, and infusion rates by dashed lines.
+	- plasma targeting
+		- ![image.png](../assets/image_1708013715884_0.png)
+	- With effect-site targeting, over and undershoot of the plasma concentration, above and below the target (effect-site) concentration, is used to achieve more rapid changes in the effect-site concentration.
+		- ![image.png](../assets/image_1708013736842_0.png)
+	- ke0, constant relating to the speed of equilibration between plasma and effect-site drug concentrations; TCI, target controlled infusion.

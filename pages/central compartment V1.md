@@ -1,0 +1,3 @@
+- it represents the initial volume of distribution
+	- the [[plasma]]
+-

@@ -1,0 +1,10 @@
+- ((65ce3a96-7863-4d8d-af3e-fd6fce67288f))
+	- includes covariates
+		- [[age]]
+		- [[gender]]
+		- [[total body weight]]
+	- V1 and V3 are fixed
+	- V2 is influenced by age
+	- k10 is influenced by total weight, height, and lean body mass
+- should be used in effect-site targeting
+-

@@ -1,0 +1,3 @@
+- mathematical construct
+- slow redistribution of drug from V1 to less perfused tissues
+-

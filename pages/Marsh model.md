@@ -1,0 +1,11 @@
+- simplest model
+- Compartment volumes are scaled to [[body weight]] only, and rate constants are ﬁxed
+- ((65ce398c-7bc1-4540-a6ce-2c089bbf1f74))
+	- the original used no ke0
+		- it was used in the diprifusor
+		- only offers plasma targeting
+	- later versions uses ke0 = 0.26 min-1
+		- displays estimated effect-site concentration
+	- [[open TCI]] pumps with Marsh effect-site targeting use a ke0 = 1.2 min-1
+		- to avoid large loading doses
+-

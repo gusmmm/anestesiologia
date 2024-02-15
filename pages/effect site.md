@@ -1,0 +1,4 @@
+- for anesthestics and analgesics it is the [[brain]]
+- # ver
+	- [[effect-site targeting]]
+-

@@ -1,0 +1,2 @@
+- mathematical construct
+- rapid redistribution of drug from V1 to well perfused tissues
