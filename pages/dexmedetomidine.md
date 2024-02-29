@@ -12,4 +12,14 @@ category:: anesthetic-drug
 		- predominance of slow and delta waves
 		- similar to NREM stage 3 sleep
 			- slow-wave sleep
+- # para cirurgias
+	- [[proposta de protocolo anestesico para laqueação de varizes dos membros inferiores com dexdor midazolam e ketamina]]
+- # preparação
+	- ![dexdor-epar-product-information_pt.pdf](../assets/dexdor-epar-product-information_pt_1709232172498_0.pdf)
+	- vem em ampolas de 2 mL com 100 mcg/mL
+		- p ex 100 mcg em 50 mL
+			- fica 2 mcg/mL
+	-
+- # references
+	- [[Is dexmedetomidine a lazy drug or do we have lazy anesthesiologists]]
 -
